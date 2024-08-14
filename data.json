@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "username": "lokesh",
+      "password": "lokesh@2004",
+      "id": "65b3"
+    },
+    {
+      "username": "priya",
+      "password": "priya@2004",
+      "id": "ca81"
+    },
+    {
+      "username": "admin",
+      "password": "admin@2004",
+      "id": "3375"
+    },
+    {
+      "id": "8c7e",
+      "username": "lo",
+      "password": "lo"
+    },
+    {
+      "id": "62c6",
+      "username": "aslap",
+      "password": "aslap"
+    },
+    {
+      "id": "cccc",
+      "username": "signup",
+      "password": "signup"
+    },
+    {
+      "id": "c427",
+      "username": "signup",
+      "password": "signup"
+    },
+    {
+      "id": "5e71",
+      "username": "alex",
+      "password": "alex"
+    },
+    {
+      "id": "0ae1",
+      "username": "flem",
+      "password": "flem"
+    },
+    {
+      "id": "98ff",
+      "username": "newuser",
+      "password": "newuser"
+    },
+    {
+      "id": "1d55",
+      "username": "newuser",
+      "password": "newuser"
+    },
+    {
+      "id": "0a20",
+      "username": "newuser",
+      "password": "newuser"
+    },
+    {
+      "id": "cb39",
+      "username": "json",
+      "password": "json"
+    },
+    {
+      "id": "11c2",
+      "username": "server",
+      "password": "server"
+    },
+    {
+      "id": "c0a1",
+      "username": "food",
+      "password": "food"
+    },
+    {
+      "id": "3c2b",
+      "username": "lucky",
+      "password": "lucky"
+    },
+    {
+      "id": "10c5",
+      "username": "network",
+      "password": "network"
+    },
+    {
+      "id": "6e2d",
+      "username": "eng",
+      "password": "eng"
+    }
+  ]
+}
